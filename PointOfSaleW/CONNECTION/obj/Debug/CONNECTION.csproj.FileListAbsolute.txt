@@ -1,0 +1,28 @@
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.dll
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.pdb
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.dll
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.pdb
+F:\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.dll
+F:\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.pdb
+F:\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.csprojResolveAssemblyReference.cache
+F:\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.dll
+F:\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.pdb
+E:\GratoTest\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.dll
+E:\GratoTest\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.pdb
+E:\GratoTest\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.csprojResolveAssemblyReference.cache
+E:\GratoTest\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.dll
+E:\GratoTest\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.dll
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.dll
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.csprojResolveAssemblyReference.cache
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.dll
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\bin\Debug\CONNECTION.pdb
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.csprojResolveAssemblyReference.cache
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.dll
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\obj\Debug\CONNECTION.pdb

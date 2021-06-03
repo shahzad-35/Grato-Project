@@ -1,0 +1,295 @@
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe.config
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.pdb
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\BE.dll
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.dll
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.dll
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\BE.pdb
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.pdb
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.pdb
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csprojResolveAssemblyReference.cache
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Login.baml
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.baml
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Product.baml
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RecietShow.baml
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.baml
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Login.g.cs
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.g.cs
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Product.g.cs
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RecietShow.g.cs
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.g.cs
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\App.g.cs
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW_MarkupCompile.cache
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.g.resources
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.Properties.Resources.resources
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csproj.GenerateResource.Cache
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.cache
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.compiled
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.exe
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe.config
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\BE.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\BE.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csprojResolveAssemblyReference.cache
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.baml
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Login.baml
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.baml
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Product.baml
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.baml
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.baml
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.baml
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.g.cs
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Login.g.cs
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.g.cs
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Product.g.cs
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.g.cs
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.g.cs
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.g.cs
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\App.g.cs
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW_MarkupCompile.cache
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.g.resources
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.Properties.Resources.resources
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csproj.GenerateResource.Cache
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.cache
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.compiled
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.exe
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.pdb
+F:\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe.config
+F:\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe
+F:\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.pdb
+F:\PointOfSaleW\PointOfSaleW\bin\Debug\BE.dll
+F:\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.dll
+F:\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.dll
+F:\PointOfSaleW\PointOfSaleW\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\PointOfSaleW\PointOfSaleW\bin\Debug\BE.pdb
+F:\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.pdb
+F:\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.pdb
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csprojResolveAssemblyReference.cache
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.baml
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\Login.baml
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.baml
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\Product.baml
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.baml
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.baml
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.baml
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.g.cs
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\Login.g.cs
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.g.cs
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\Product.g.cs
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.g.cs
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.g.cs
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.g.cs
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\App.g.cs
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW_MarkupCompile.cache
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.g.resources
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.Properties.Resources.resources
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csproj.GenerateResource.Cache
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.cache
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.compiled
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.exe
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.pdb
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe.config
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.exe
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.pdb
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.pdb
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\bin\Debug\BE.dll
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.dll
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.dll
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\bin\Debug\BE.pdb
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.pdb
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.pdb
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csprojResolveAssemblyReference.cache
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.baml
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\Login.baml
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.baml
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\Product.baml
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.baml
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.baml
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.baml
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.g.cs
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\Login.g.cs
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.g.cs
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\Product.g.cs
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.g.cs
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.g.cs
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.g.cs
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\App.g.cs
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW_MarkupCompile.cache
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.g.resources
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.Properties.Resources.resources
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csproj.GenerateResource.Cache
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.cache
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.compiled
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\Recipe.baml
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\Recipe.g.cs
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\RecipeList.baml
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\RecipeList.g.cs
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\Sale1.baml
+F:\PointOfSaleW\PointOfSaleW\PointOfSaleW\obj\Debug\Sale1.g.cs
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\Recipe.baml
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\RecipeList.baml
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\Sale1.baml
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\Recipe.g.cs
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\RecipeList.g.cs
+F:\PointOfSaleW\PointOfSaleW\obj\Debug\Sale1.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe.config
+E:\GratoTest\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe
+E:\GratoTest\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.pdb
+E:\GratoTest\PointOfSaleW\PointOfSaleW\bin\Debug\BE.dll
+E:\GratoTest\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.dll
+E:\GratoTest\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.dll
+E:\GratoTest\PointOfSaleW\PointOfSaleW\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\GratoTest\PointOfSaleW\PointOfSaleW\bin\Debug\BE.pdb
+E:\GratoTest\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.pdb
+E:\GratoTest\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.pdb
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csprojResolveAssemblyReference.cache
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\Login.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\Product.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\RecentSale.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\Recipe.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\RecipeList.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\Sale1.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEdit.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEditShow.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReportByToken.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReturn.baml
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\Login.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\Product.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\RecentSale.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\Recipe.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\RecipeList.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\Sale1.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEdit.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEditShow.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReportByToken.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReturn.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\App.g.cs
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW_MarkupCompile.cache
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.g.resources
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.Properties.Resources.resources
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csproj.GenerateResource.Cache
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.cache
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.compiled
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.exe
+E:\GratoTest\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe.config
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.exe
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\BE.dll
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.dll
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.dll
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\BE.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\CONNECTION.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\DAL.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csprojResolveAssemblyReference.cache
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Login.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Product.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RecentSale.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Recipe.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RecipeList.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale1.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEdit.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEditShow.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReportByToken.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReturn.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Login.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Product.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RecentSale.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Recipe.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RecipeList.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale1.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEdit.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEditShow.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReportByToken.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReturn.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\App.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW_MarkupCompile.cache
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.g.resources
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.Properties.Resources.resources
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csproj.GenerateResource.Cache
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.cache
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.compiled
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe.manifest
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.application
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.exe.manifest
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.application
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerScreen.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerScreen.g.cs
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEditByToken.baml
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEditByToken.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csprojResolveAssemblyReference.cache
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerScreen.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Login.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Product.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RecentSale.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Recipe.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RecipeList.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale1.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEdit.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEditByToken.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEditShow.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReportByToken.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReturn.baml
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerRDLCReport.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\CustomerScreen.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Login.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\MainWindow.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Product.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RecentSale.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Recipe.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RecipeList.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheck.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\ReportCheckShow.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\Sale1.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEdit.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEditByToken.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleEditShow.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReportByToken.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\SaleReturn.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\App.g.cs
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW_MarkupCompile.cache
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.g.resources
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.Properties.Resources.resources
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.csproj.GenerateResource.Cache
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.cache
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\RdlCompile.compiled
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.exe
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\obj\Debug\PointOfSaleW.pdb
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\PointOfSaleW\bin\Debug\PointOfSaleW.exe.config

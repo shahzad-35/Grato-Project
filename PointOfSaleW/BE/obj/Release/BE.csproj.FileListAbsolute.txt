@@ -1,0 +1,5 @@
+C:\Users\mpc\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Release\BE.dll.config
+C:\Users\mpc\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Release\BE.dll
+C:\Users\mpc\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Release\BE.pdb
+C:\Users\mpc\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\obj\Release\BE.dll
+C:\Users\mpc\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\obj\Release\BE.pdb

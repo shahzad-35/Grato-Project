@@ -1,0 +1,36 @@
+﻿<Window x:Class="PointOfSaleW.RecentSale"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RecentSale" WindowState="Maximized"
+    WindowStartupLocation="CenterScreen" Background="Gainsboro">
+    <Window.Resources>
+        <Style TargetType="ListViewItem">
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <ListView x:Name="LVShowSale" HorizontalAlignment="Left" Height="600" Margin="143,60,-383,-526" VerticalAlignment="Top" Width="1000" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn  Header="Sale Id" Width="160"  DisplayMemberBinding="{Binding SaleId}"/>
+                    <GridViewColumn  Header="Token Id" Width="200" DisplayMemberBinding="{Binding TokenId}"/>
+                    <GridViewColumn  Header="Total Sale" Width="160" DisplayMemberBinding="{Binding TotalSale}"/>
+                    <GridViewColumn  Header="Discount" Width="160" DisplayMemberBinding="{Binding Discount}"/>
+                    <GridViewColumn  Header="Net Sale" Width="160" DisplayMemberBinding="{Binding NetSale}"/>
+                    <GridViewColumn Header="Print" Width="100">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Print" Click="Print_Click" Foreground="White" Background="Blue" CommandParameter="{Binding SaleId}" Width="50px"/>
+                            </DataTemplate>
+
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+
+            </ListView.View>
+
+        </ListView>
+        <Label Content="Available Product And Price " HorizontalAlignment="Left" Margin="143,25,0,0" Background="LightCoral" Foreground="White" FontSize="15" HorizontalContentAlignment="Center" FontWeight="Bold" VerticalAlignment="Top" Height="35" Width="223"/>
+
+    </Grid>
+</Window>

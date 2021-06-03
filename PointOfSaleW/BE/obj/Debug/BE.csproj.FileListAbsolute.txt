@@ -1,0 +1,37 @@
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\BE\bin\Debug\BE.dll
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\BE\bin\Debug\BE.pdb
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\BE\obj\Debug\BE.dll
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\BE\obj\Debug\BE.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Debug\BE.dll.config
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Debug\BE.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Debug\BE.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\obj\Debug\BE.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\obj\Debug\BE.pdb
+F:\PointOfSaleW\BE\bin\Debug\BE.dll.config
+F:\PointOfSaleW\BE\bin\Debug\BE.dll
+F:\PointOfSaleW\BE\bin\Debug\BE.pdb
+F:\PointOfSaleW\BE\obj\Debug\BE.dll
+F:\PointOfSaleW\BE\obj\Debug\BE.pdb
+F:\PointOfSaleW\PointOfSaleW\BE\bin\Debug\BE.dll.config
+F:\PointOfSaleW\PointOfSaleW\BE\bin\Debug\BE.dll
+F:\PointOfSaleW\PointOfSaleW\BE\bin\Debug\BE.pdb
+F:\PointOfSaleW\PointOfSaleW\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+F:\PointOfSaleW\PointOfSaleW\BE\obj\Debug\BE.dll
+F:\PointOfSaleW\PointOfSaleW\BE\obj\Debug\BE.pdb
+E:\GratoTest\PointOfSaleW\BE\bin\Debug\BE.dll.config
+E:\GratoTest\PointOfSaleW\BE\bin\Debug\BE.dll
+E:\GratoTest\PointOfSaleW\BE\bin\Debug\BE.pdb
+E:\GratoTest\PointOfSaleW\BE\obj\Debug\BE.dll
+E:\GratoTest\PointOfSaleW\BE\obj\Debug\BE.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Debug\BE.dll.config
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Debug\BE.dll
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Debug\BE.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\obj\Debug\BE.dll
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\obj\Debug\BE.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Debug\BE.dll.config
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Debug\BE.dll
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\bin\Debug\BE.pdb
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\obj\Debug\BE.dll
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\BE\obj\Debug\BE.pdb

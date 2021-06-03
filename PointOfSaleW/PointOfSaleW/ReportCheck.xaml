@@ -1,0 +1,19 @@
+﻿<Window x:Class="PointOfSaleW.ReportCheck"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ReportCheck" Height="377" Width="569"   WindowStartupLocation="CenterScreen">
+    <Grid Background="Gainsboro">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="155*"/>
+            <ColumnDefinition Width="137*"/>
+        </Grid.ColumnDefinitions>
+
+        <DatePicker Name="DateFrom" Margin="219,133,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="227" Grid.ColumnSpan="2" FontSize="20" Height="auto"/>
+        <Label Content="From:" HorizontalAlignment="Left" Margin="125,133,0,0" VerticalAlignment="Top" Width="94" FontSize="20" Height="57"/>
+        <DatePicker Name="DateTo" Margin="219,187,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="227" Grid.ColumnSpan="2" FontSize="20" Height="auto"/>
+        <Label Content="To:"  HorizontalAlignment="Left" Margin="125,184,0,0" VerticalAlignment="Top" Width="94" FontSize="20" Height="57"/>
+        <Button IsDefault="True" Background="Blue" Foreground="White" Content="Show Report" HorizontalAlignment="Left" Margin="25.333,249,0,0" VerticalAlignment="Top" Width="122" Click="Button_Click" Height="41" FontSize="20" Grid.Column="1"/>
+        <Label Content="Select Date To Check Report" Background="LightCoral" Foreground="White" FontSize="20" HorizontalContentAlignment="Center" FontWeight="Bold"  HorizontalAlignment="Left" Margin="130,40,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="315"/>
+        <Label Content="" Name="errorMsgLabel"  Foreground="Red" FontSize="16" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="125,102,0,0" VerticalAlignment="Top" Width="auto"/>
+    </Grid>
+</Window>

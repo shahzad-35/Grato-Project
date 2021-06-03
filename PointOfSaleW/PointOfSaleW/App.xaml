@@ -1,0 +1,11 @@
+﻿<Application x:Class="PointOfSaleW.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <!--StartupUri="Login.xaml">
+    StartupUri="Product.xaml">
+    StartupUri="Sale.xaml">-->
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

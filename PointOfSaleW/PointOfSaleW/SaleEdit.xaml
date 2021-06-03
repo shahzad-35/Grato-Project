@@ -1,0 +1,12 @@
+﻿<Window x:Class="PointOfSaleW.SaleEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SaleEdit" Height="345.259" Width="465.517"  WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,-303,-18">
+        <Label Content="Sale ID:" HorizontalAlignment="Left" Margin="111,98,0,0" VerticalAlignment="Top" Width="58"/>
+        <Button IsDefault="True" Background="Blue" Foreground="White" Content="Show " HorizontalAlignment="Left" Margin="177,144,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Height="27" RenderTransformOrigin="0.762,-0.199"/>
+        <Label Content="Enter Sale Id to Edit" Background="LightCoral" Foreground="White" FontSize="20" HorizontalContentAlignment="Center" FontWeight="Bold"  HorizontalAlignment="Left" Margin="49,24,-72,0" VerticalAlignment="Top" Width="315"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Name="txtSaleId" Margin="172,101,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

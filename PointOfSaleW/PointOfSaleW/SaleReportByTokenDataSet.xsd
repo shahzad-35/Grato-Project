@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SaleReportByTokenDataSet" targetNamespace="http://tempuri.org/SaleReportByTokenDataSet.xsd" xmlns:mstns="http://tempuri.org/SaleReportByTokenDataSet.xsd" xmlns="http://tempuri.org/SaleReportByTokenDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="PointOfSaleConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="PointOfSaleConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.PointOfSaleW.Properties.Settings.GlobalReference.Default.PointOfSaleConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SaleReportByTokenDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="SaleReportByTokenDataSet" msprop:Generator_UserDSName="SaleReportByTokenDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Sale" msprop:Generator_TableClassName="SaleDataTable" msprop:Generator_TableVarName="tableSale" msprop:Generator_TablePropName="Sale" msprop:Generator_RowDeletingName="SaleRowDeleting" msprop:Generator_RowChangingName="SaleRowChanging" msprop:Generator_RowEvHandlerName="SaleRowChangeEventHandler" msprop:Generator_RowDeletedName="SaleRowDeleted" msprop:Generator_UserTableName="Sale" msprop:Generator_RowChangedName="SaleRowChanged" msprop:Generator_RowEvArgName="SaleRowChangeEvent" msprop:Generator_RowClassName="SaleRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SaleId" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnSaleId" msprop:Generator_ColumnPropNameInRow="SaleId" msprop:Generator_ColumnPropNameInTable="SaleIdColumn" msprop:Generator_UserColumnName="SaleId" type="xs:long" />
+              <xs:element name="TokenId" msprop:Generator_ColumnVarNameInTable="columnTokenId" msprop:Generator_ColumnPropNameInRow="TokenId" msprop:Generator_ColumnPropNameInTable="TokenIdColumn" msprop:Generator_UserColumnName="TokenId" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TotalSale" msprop:Generator_ColumnVarNameInTable="columnTotalSale" msprop:Generator_ColumnPropNameInRow="TotalSale" msprop:Generator_ColumnPropNameInTable="TotalSaleColumn" msprop:Generator_UserColumnName="TotalSale" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NetSale" msprop:Generator_ColumnVarNameInTable="columnNetSale" msprop:Generator_ColumnPropNameInRow="NetSale" msprop:Generator_ColumnPropNameInTable="NetSaleColumn" msprop:Generator_UserColumnName="NetSale" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CreatedDate" msprop:Generator_ColumnVarNameInTable="columnCreatedDate" msprop:Generator_ColumnPropNameInRow="CreatedDate" msprop:Generator_ColumnPropNameInTable="CreatedDateColumn" msprop:Generator_UserColumnName="CreatedDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="BranchId" msprop:Generator_ColumnVarNameInTable="columnBranchId" msprop:Generator_ColumnPropNameInRow="BranchId" msprop:Generator_ColumnPropNameInTable="BranchIdColumn" msprop:Generator_UserColumnName="BranchId" type="xs:int" />
+              <xs:element name="CashRecieved" msprop:Generator_ColumnVarNameInTable="columnCashRecieved" msprop:Generator_ColumnPropNameInRow="CashRecieved" msprop:Generator_ColumnPropNameInTable="CashRecievedColumn" msprop:Generator_UserColumnName="CashRecieved" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CashReturn" msprop:Generator_ColumnVarNameInTable="columnCashReturn" msprop:Generator_ColumnPropNameInRow="CashReturn" msprop:Generator_ColumnPropNameInTable="CashReturnColumn" msprop:Generator_UserColumnName="CashReturn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Sale" />
+      <xs:field xpath="mstns:SaleId" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

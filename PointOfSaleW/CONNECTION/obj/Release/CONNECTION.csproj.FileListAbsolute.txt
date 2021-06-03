@@ -1,0 +1,4 @@
+C:\Users\mpc\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\bin\Release\CONNECTION.dll
+C:\Users\mpc\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\bin\Release\CONNECTION.pdb
+C:\Users\mpc\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\obj\Release\CONNECTION.dll
+C:\Users\mpc\Documents\Visual Studio 2013\Projects\PointOfSaleW\CONNECTION\obj\Release\CONNECTION.pdb

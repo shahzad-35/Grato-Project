@@ -1,0 +1,38 @@
+﻿<Window x:Class="PointOfSaleW.Recipe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Recipe" WindowStartupLocation="CenterScreen"  Height="667" Width="1144">
+    <Grid Margin="0,0,-291,-45">
+        <Label Content="Prouduct" HorizontalAlignment="Left" Margin="358,66,0,0" VerticalAlignment="Top" Width ="93" Height="26"/>
+        <ComboBox HorizontalAlignment="Left" Margin="457,66,-27,0" x:Name="cblProduct"     VerticalAlignment="Top" Width="153"   SelectionChanged="ddlProduct_SelectionChanged" Height="22"/>
+        <Button Content="Add" IsDefault="True" Foreground="White" Background="Blue" HorizontalAlignment="Left" Margin="458,105,0,0" VerticalAlignment="Top" Width="96" Click="Button_Click" Height="20"/>
+
+        <ListView x:Name="LVShow" HorizontalAlignment="Left"  Margin="324,194,-251,-111" VerticalAlignment="Top"   Background="WhiteSmoke" Height="231" Width="510">
+
+            <ListView.View >
+
+                <GridView  >
+                    <GridViewColumn  Header="Product Id" Width="180" DisplayMemberBinding="{Binding ProductId}"/>
+                    <GridViewColumn  Header="Product Name" Width="200" DisplayMemberBinding="{Binding ProductName}"/>
+                    <GridViewColumn Header="Delete" Width="90">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Delete"  Click="Delete_Click"    CommandParameter="{Binding ProductId}" Width="50px"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+
+            </ListView.View>
+        </ListView>
+        <Button Content="Save" Foreground="White" Background="Blue" x:Name="btnCheckOut" HorizontalAlignment="Left" Margin="738,473,-250,-179" VerticalAlignment="Top" Width="95" Click="btnCheckOut_Click" Height="20"/>
+        <Label Content="Add Items To The Recipe" Background="LightCoral" Foreground="White" FontSize="15" HorizontalContentAlignment="Center" FontWeight="Bold" HorizontalAlignment="Left" Margin="149,0,0,0" VerticalAlignment="Top" Width="204" Height="29"/>
+        <Label Content="Recipe Items" Background="LightCoral" Foreground="White" FontSize="15" HorizontalContentAlignment="Center" FontWeight="Bold" HorizontalAlignment="Left" Margin="239,154,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Content="Recipe" HorizontalAlignment="Left" Margin="359,26,0,0" VerticalAlignment="Top" Width="99" Height="26"/>
+        <TextBox    HorizontalAlignment="Left" Height="23" Margin="458,26,-28,0" TextWrapping="Wrap" 
+        	MaxLength="6"   Text="" x:Name="txtRecipe"  VerticalAlignment="Top" Width="153" />
+        <Label   x:Name="lblUnits" Content=""   HorizontalAlignment="Left" Margin="624,25,0,0"  VerticalAlignment="Top" Width="114" Height="23"/>
+        <Button Content="Recipe List" Foreground="White" Background="Blue" HorizontalAlignment="Left" Margin="620,474,0,0" VerticalAlignment="Top" Width="103" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

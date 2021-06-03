@@ -1,0 +1,120 @@
+﻿<Window x:Class="PointOfSaleW.Sale"
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"  
+        
+        Title="Sale"
+    WindowStartupLocation="CenterScreen" Height="1200" Width="1600" WindowState="Maximized" Background="Gainsboro">
+
+    <Grid HorizontalAlignment="Left" Width="1500"  Background="Gainsboro" RenderTransformOrigin="0.533,0.598"  >
+
+        <Label Content="Prouduct" FontSize="20" HorizontalAlignment="Left" Margin="16,153,0,0" VerticalAlignment="Top" Width ="95" Height="35"/>
+        <ComboBox HorizontalAlignment="Left" Margin="161,153,0,0" Name="cblProduct"     VerticalAlignment="Top" Width="158"   SelectionChanged="ddlProduct_SelectionChanged" Height="auto" FontSize="20"/>
+        <Label Content="Unit" FontSize="20" HorizontalAlignment="Left" Margin="16,195,0,0" VerticalAlignment="Top" Width="102" Height="35"/>
+        <TextBox   FontSize="20" HorizontalAlignment="Left" Height="31" Margin="161,195,0,0" TextWrapping="Wrap" 
+           MaxLength="6"   Text="" Name="txtUnits"  VerticalAlignment="Top" Width="158" TextChanged="txtUnits_TextChanged"/>
+        <Label Content="Price" FontSize="20"  HorizontalAlignment="Left" Margin="16,237,0,0" VerticalAlignment="Top" Width="95" Height="36"/>
+        <TextBox HorizontalAlignment="Left" FontSize="20" Height="32" Margin="161,241,0,0" TextWrapping="Wrap" Text="" 
+           MaxLength="9"     Name="txtTotalPrice"  VerticalAlignment="Top" Width="158" TextChanged="txtTotalPrice_TextChanged"/>
+        <Label   FontSize="20" Name="lblUnits" Content=""   HorizontalAlignment="Left" Margin="338,195,0,0"  VerticalAlignment="Top" Width="117" Height="31"/>
+        <Label   FontSize="20" Name="lblPrice" Content="" HorizontalAlignment="Left" Margin="338,241,0,0"  VerticalAlignment="Top" Width="117" Height="32" RenderTransformOrigin="0.526,1.167"/>
+        <Button Content="Add" IsDefault="True" Foreground="White" Background="Blue" HorizontalAlignment="Left" Margin="161,291,0,0" VerticalAlignment="Top" Width="158" Click="Button_Click" Height="36" FontSize="20"/>
+        <Button Content="Jalebi" Foreground="White" Background="Blue" HorizontalAlignment="Left" Margin="16,23,0,0" VerticalAlignment="Top" Width="120" Click="JalebiClick" Height="52" FontSize="20"/>
+        <Button Content="Samosa" Foreground="White" Background="Blue" HorizontalAlignment="Left" Margin="174,23,0,0" VerticalAlignment="Top" Width="120" Click="SamosaClick" Height="52" FontSize="20"/>
+        <Button Content="Pakoray" Foreground="White" Background="Blue" HorizontalAlignment="Left" Margin="337,23,0,0" VerticalAlignment="Top" Width="120" Click="PakorayClick" Height="52" FontSize="20"/>
+
+
+        <ListView Name="LVShow" HorizontalAlignment="Left"  Margin="411,80,0,0" VerticalAlignment="Top"   Background="WhiteSmoke" Height="300" Width="664" RenderTransformOrigin="0.5,0.5">
+            <ListView.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.172"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ListView.RenderTransform>
+
+            <ListView.View >
+
+                <GridView>
+                    <GridViewColumn  Header="Product Name" Width="120" DisplayMemberBinding="{Binding ProductName}"/>
+                    <GridViewColumn  Header="Unit Price" Width="140" DisplayMemberBinding="{Binding UnitPrice}"/>
+                    <GridViewColumn  Header="Units" Width="150" DisplayMemberBinding="{Binding TotalUnits}"/>
+                    <GridViewColumn  Header="Total Price" Width="150" DisplayMemberBinding="{Binding TotalPrice}"/>
+                    <GridViewColumn Header="Delete" Width="100">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Delete"  Click="Delete_Click"    CommandParameter="{Binding ProductId}" Width="50px"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+
+            </ListView.View>
+        </ListView>
+
+        <Label Content="Total" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="653,391,0,0" VerticalAlignment="Top" Width="235" Height="35" FontSize="20"/>
+        <TextBox Name="txtNetPrice" IsReadOnly="True"  HorizontalAlignment="Left" Height="30" Margin="898,391,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="211" FontSize="20"/>
+        <Label Content="Discount" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="653,429,0,0" VerticalAlignment="Top" Width="235" Height="35" FontSize="20"/>
+        <TextBox x:Name="txtDiscount" MaxLength="6"  HorizontalAlignment="Left" Height="31" Margin="898,429,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="211" TextChanged="txtDiscount_TextChanged" FontSize="20"/>
+        <Label Content="Net Total"  HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="653,466,0,0" VerticalAlignment="Top" Width="235" Height="36" FontSize="20"/>
+        <TextBox x:Name="txtNetTotal" IsReadOnly="True"  HorizontalAlignment="Left" Height="32" Margin="898,467,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="211" FontSize="20"/>
+        <TextBox Name="hdnNetTotal"  HorizontalAlignment="Left" Height="32" Margin="1116,470,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="206" FontSize="20"/>
+        <Label Content="Cash Received" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="653,505,0,0" VerticalAlignment="Top" Width="235" Height="34" FontSize="20"/>
+        <TextBox x:Name="txtCashRecieved" MaxLength="10"  HorizontalAlignment="Left" Height="31" Margin="898,505,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="211" TextChanged="txtCashRecieved_TextChanged" FontSize="20"/>
+        <Label Content="Cash Return"  HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="653,543,0,0" VerticalAlignment="Top" Width="235" Height="35" FontSize="20"/>
+        <TextBox x:Name="txtCashReturn" IsReadOnly="True"  HorizontalAlignment="Left" Height="31" Margin="898,542,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="211" FontSize="20"/>
+        <Button Content="Place Order" Foreground="White" Background="blue" Name="btnCheckOut" HorizontalAlignment="Left" Margin="896,588,0,0" VerticalAlignment="Top" Width="112" Click="btnPlaceOrder_Click" Height="41" FontSize="20"/>
+        <Button Content="Cancel" Foreground="White" Background="LightBlue" x:Name="btnCancel" HorizontalAlignment="Left" Margin="1021,588,0,0" VerticalAlignment="Top" Width="92" Click="btnCancel_Click" Height="41" FontSize="20"/>
+        <!--<Button Content="Sale Edit" Foreground="White" Background="LightCoral" Name="btnEditSale" HorizontalAlignment="Left" Margin="1314,131,0,0" VerticalAlignment="Top" Width="150" Click="btnEditSale_Click" Height="42" RenderTransformOrigin="0.773,1.166" FontSize="20"/>-->
+        <Button Content="Sale Edit by Token" Foreground="White" Background="Blue" Name="btnEditSaleByToken" HorizontalAlignment="Left" Margin="1127,238,0,0" VerticalAlignment="Top" Width="auto" Click="btnEditSaleByToken_Click" Height="42" RenderTransformOrigin="0.773,1.166" FontSize="20"/>
+        <Button Content="Sale Return" Foreground="White" Background="LightCoral" Name="btnReturnSale" HorizontalAlignment="Left" Margin="1128,96,0,0" VerticalAlignment="Top" Width="150"   Height="42" RenderTransformOrigin="0.773,1.166" Click="btnReturnSale_Click" FontSize="20"/>
+        <Label Content="Add Items To The Cart" Background="LightCoral" Foreground="White" FontSize="15" HorizontalContentAlignment="Center" FontWeight="Bold" HorizontalAlignment="Left" Margin="16,96,0,0" VerticalAlignment="Top" Width="204" Height="29"/>
+        <Label Content="Items in Cart" Background="LightCoral" Foreground="White" FontSize="15" HorizontalContentAlignment="Center" FontWeight="Bold" HorizontalAlignment="Left" Margin="603,31,0,0" VerticalAlignment="Top" Width="186"/>
+        <Label Content="" Name="lblDiscountMsg" HorizontalAlignment="Left" Margin="1125,428,0,0" VerticalAlignment="Top" Width="197" Height="36" FontSize="16"/>
+        <Label Content="" Name="lblRecievedMsg" HorizontalAlignment="Left" Margin="1119,510,0,0" VerticalAlignment="Top" Width="197" Height="35" FontSize="16" Foreground="#FFE81313"/>
+        <Button Content="Sale By Token" Foreground="White" Background="LightCoral" x:Name="btnSaleByToken" HorizontalAlignment="Left" Margin="1134,167,0,0" VerticalAlignment="Top" Width="150" Click="btnSaleByToken_Click" Height="43" RenderTransformOrigin="0.773,1.166" FontSize="20"/>
+        <!--<Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="156" Margin="14,270,0,0" VerticalAlignment="Top" Width="156"/>-->
+        <!--<Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="38" Margin="546,581,0,0" VerticalAlignment="Top" Width="217"/>-->
+
+        <Button Content="Today Sale" Width="150" Height="43" Foreground="White" Background="Blue" x:Name="btnTodaySale" HorizontalAlignment="Left" Margin="1128,303,0,0" VerticalAlignment="Top" Click="btnTodaySale_Click" RenderTransformOrigin="0.773,1.166" FontSize="20"/>
+
+        <ListView Name="JalebiListView" Width="200" MaxHeight="380" HorizontalAlignment="Left"  Margin="36,474,0,0"  Background="Gainsboro"  FontSize="24" FontFamily="Georgia" BorderThickness="0,0,0,0"  VerticalAlignment="Top" MinWidth="100" HorizontalContentAlignment="Center" MouseDoubleClick="JalebiListView_MouseDoubleClick">
+
+            <ListView.View >
+
+                <GridView>
+                    <GridViewColumn  Header="Jalebi"  Width="150" DisplayMemberBinding="{Binding }" />
+                </GridView>
+
+            </ListView.View>
+        </ListView>
+
+
+        <ListView Name="SamosaListView" MaxHeight="380" HorizontalAlignment="Left"  Margin="259,474,0,0" VerticalAlignment="Top"   Background="Gainsboro"  FontSize="24" FontFamily="Georgia" FontWeight="Medium" TextOptions.TextHintingMode="Animated" BorderThickness="0" Width="200" MouseDoubleClick="SamosaListView_MouseDoubleClick">
+
+            <ListView.View >
+
+                <GridView>
+                    <GridViewColumn  Header="Samosa" Width="150" DisplayMemberBinding="{Binding }"/>
+                </GridView>
+
+            </ListView.View>
+        </ListView>
+
+        <ListView Name="OthersListView" HorizontalAlignment="Left"  Margin="482,474,0,0" VerticalAlignment="Top"   Background="Gainsboro" MaxHeight="380" FontSize="24" TextOptions.TextFormattingMode="Display" FontWeight="Medium" FontFamily="Georgia" BorderThickness="0,0,0,0" Width="200" MouseDoubleClick="OthersListView_MouseDoubleClick">
+
+            <ListView.View >
+
+                <GridView>
+                    <GridViewColumn  Header="Others" Width="150" DisplayMemberBinding="{Binding }"/>
+                </GridView>
+
+            </ListView.View>
+        </ListView>
+        <Label  Name="orderLabel" Content="" HorizontalAlignment="Left" Margin="852,671,0,0" VerticalAlignment="Top" Foreground="#FF3C42C3" FontSize="16"/>
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,65 @@
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\DAL\bin\Debug\DAL.dll
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\DAL\bin\Debug\DAL.pdb
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\DAL\bin\Debug\BE.dll
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\DAL\bin\Debug\CONNECTION.dll
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\DAL\bin\Debug\BE.pdb
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\DAL\bin\Debug\CONNECTION.pdb
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\DAL\obj\Debug\DAL.dll
+C:\Users\AHSAN\Documents\Visual Studio 2012\Projects\PointOfSaleW\DAL\obj\Debug\DAL.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\DAL.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\DAL.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\BE.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\CONNECTION.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\BE.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\CONNECTION.pdb
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\obj\Debug\DAL.dll
+C:\Users\HASAN\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\obj\Debug\DAL.pdb
+F:\PointOfSaleW\DAL\bin\Debug\DAL.dll
+F:\PointOfSaleW\DAL\bin\Debug\DAL.pdb
+F:\PointOfSaleW\DAL\bin\Debug\BE.dll
+F:\PointOfSaleW\DAL\bin\Debug\CONNECTION.dll
+F:\PointOfSaleW\DAL\bin\Debug\BE.pdb
+F:\PointOfSaleW\DAL\bin\Debug\CONNECTION.pdb
+F:\PointOfSaleW\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\PointOfSaleW\DAL\obj\Debug\DAL.dll
+F:\PointOfSaleW\DAL\obj\Debug\DAL.pdb
+F:\PointOfSaleW\PointOfSaleW\DAL\bin\Debug\DAL.dll
+F:\PointOfSaleW\PointOfSaleW\DAL\bin\Debug\DAL.pdb
+F:\PointOfSaleW\PointOfSaleW\DAL\bin\Debug\BE.dll
+F:\PointOfSaleW\PointOfSaleW\DAL\bin\Debug\CONNECTION.dll
+F:\PointOfSaleW\PointOfSaleW\DAL\bin\Debug\BE.pdb
+F:\PointOfSaleW\PointOfSaleW\DAL\bin\Debug\CONNECTION.pdb
+F:\PointOfSaleW\PointOfSaleW\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\PointOfSaleW\PointOfSaleW\DAL\obj\Debug\DAL.dll
+F:\PointOfSaleW\PointOfSaleW\DAL\obj\Debug\DAL.pdb
+E:\GratoTest\PointOfSaleW\DAL\bin\Debug\DAL.dll
+E:\GratoTest\PointOfSaleW\DAL\bin\Debug\DAL.pdb
+E:\GratoTest\PointOfSaleW\DAL\bin\Debug\BE.dll
+E:\GratoTest\PointOfSaleW\DAL\bin\Debug\CONNECTION.dll
+E:\GratoTest\PointOfSaleW\DAL\bin\Debug\BE.pdb
+E:\GratoTest\PointOfSaleW\DAL\bin\Debug\CONNECTION.pdb
+E:\GratoTest\PointOfSaleW\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\GratoTest\PointOfSaleW\DAL\obj\Debug\DAL.dll
+E:\GratoTest\PointOfSaleW\DAL\obj\Debug\DAL.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\DAL.dll
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\DAL.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\BE.dll
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\CONNECTION.dll
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\BE.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\CONNECTION.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\obj\Debug\DAL.dll
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\obj\Debug\DAL.pdb
+C:\Users\Shahzaib Ahmed\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\DAL.dll.config
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\DAL.dll.config
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\DAL.dll
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\DAL.pdb
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\BE.dll
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\CONNECTION.dll
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\BE.pdb
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\bin\Debug\CONNECTION.pdb
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\obj\Debug\DAL.dll
+C:\Users\GRATO\Documents\Visual Studio 2013\Projects\PointOfSaleW\DAL\obj\Debug\DAL.pdb
